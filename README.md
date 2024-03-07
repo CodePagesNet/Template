@@ -1,7 +1,7 @@
 # Code Pages Repository Template
 
-https://wwww.codepages.net  
-https://wwww.websofthost.com
+https://www.codepages.net  
+https://www.websofthost.com
 
 ## About
 
